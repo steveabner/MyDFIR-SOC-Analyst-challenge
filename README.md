@@ -19,17 +19,10 @@ The diagram features a VULTR VPC comprising six servers:
 - osTicket Server
 - C2 Server
   
-Logs from the Windows and Ubuntu servers will be forwarded to the Elastic & Kibana server via designated agents.
+<!--Logs from the Windows and Ubuntu servers will be forwarded to the Elastic & Kibana server via designated agents.
+
 
 ---
 
-<!--<details>
-<summary>Creating the OpenVAS VM in Azure</summary>
-  
----
-  
-To begin, I will access the Azure portal to configure a new virtual machine for the OpenVAS Vulnerability Management Scanner.
-
-Within the Azure portal, I will navigate to the "Marketplace" and select it. 
-
---!>
+<details>
+<summary> </summary>
