@@ -22,11 +22,13 @@ The logs from the windows and ubuntu server's will be forwarded to the elastic &
 
 ---
 
-<details>
+<!--<details>
 <summary>Creating the OpenVAS VM in Azure</summary>
   
 ---
   
 To begin, I will access the Azure portal to configure a new virtual machine for the OpenVAS Vulnerability Management Scanner.
 
-Within the Azure portal, I will navigate to the "Marketplace" and select it.
+Within the Azure portal, I will navigate to the "Marketplace" and select it. 
+
+--!>
