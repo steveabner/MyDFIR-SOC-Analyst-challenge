@@ -1,7 +1,6 @@
 # This project is ongoing and will be updated as I progress
 
 # MyDFIR-SOC-Analyst-challenge
-![30day-MyDFIR-Diagram drawio](https://github.com/user-attachments/assets/98019d97-aff6-4206-ad70-0665732799a6)
 
 ## Introduction
 
@@ -18,7 +17,8 @@ The diagram features a VULTR VPC comprising six servers:
 - Elastic & Kibana Server
 - osTicket Server
 - C2 Server
-  
+
+![30day-MyDFIR-Diagram drawio](https://github.com/user-attachments/assets/98019d97-aff6-4206-ad70-0665732799a6)
 <!--Logs from the Windows and Ubuntu servers will be forwarded to the Elastic & Kibana server via designated agents.
 
 
