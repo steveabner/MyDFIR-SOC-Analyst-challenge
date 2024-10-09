@@ -6,7 +6,7 @@
 
 This page outlines my participation in the MyDFIR 30-Day SOC Analyst Challenge, created by Steven at MyDFIR.com. This free initiative aims to equip aspiring SOC analysts with practical skills over a 30-day period.
 
-Check out the Youtube playlist here [30-Day MyDFIR SOC Analyst Challenge!](https://www.youtube.com/watch?v=W3ExS2m6B24&list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6&index=1)
+Check out Steven's Youtube playlist here [30-Day MyDFIR SOC Analyst Challenge!](https://www.youtube.com/watch?v=W3ExS2m6B24&list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6&index=1)
 
 ## Day 1
 On Day 1, I developed a logical diagram using draw.io to illustrate the network architecture for this challenge.
