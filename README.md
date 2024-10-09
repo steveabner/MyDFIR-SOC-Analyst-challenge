@@ -1,5 +1,3 @@
-# MyDFIR-SOC-Analyst-challenge
-
 # This project is ongoing and will be updated as I progress
 
 # MyDFIR-SOC-Analyst-challenge
