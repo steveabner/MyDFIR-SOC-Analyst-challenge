@@ -1,7 +1,8 @@
 # This project is ongoing and will be updated as I progress
 
 # MyDFIR-SOC-Analyst-challenge
-![30day-MyDFIR-Diagram drawio (1)](https://github.com/user-attachments/assets/bb4a515f-daf4-415f-89c0-38308d4de41d)
+![30day-MyDFIR-Diagram drawio](https://github.com/user-attachments/assets/ba31f04b-b7d3-4e92-83ce-67ea7bdd20c4)
+
 ## Introduction
 
 This document outlines my participation in the MyDFIR 30-Day SOC Analyst Challenge, created by Steven at MyDFIR.com. This free initiative aims to equip aspiring SOC analysts with practical skills over a 30-day period.
