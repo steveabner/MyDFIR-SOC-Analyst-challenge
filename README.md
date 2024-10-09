@@ -21,7 +21,7 @@ The diagram features a VULTR VPC comprising six servers:
 ![30day-MyDFIR-Diagram drawio](https://github.com/user-attachments/assets/98019d97-aff6-4206-ad70-0665732799a6)
 
 ## Day 2
-On Day 2, I learned about the ELK STACK
+On Day 2, I learned about the ELK STACK:
 - E - Elasticsearch
 - L - Logstash
 - K - Kibana
