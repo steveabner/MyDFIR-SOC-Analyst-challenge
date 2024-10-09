@@ -28,6 +28,9 @@ On Day 2, I learned about the ELK STACK
 
 ### Elasticsearch 
 - I will use Elasticsearch to store Windows event logs, syslogs, and firewall logs, enabling real-time analysis of large data volumes. It is often paired with Kibana, which helps visualize the data for improved insights.
+
+### Logstash
+-Logstash is an open-source tool that collects and processes data from various sources, like logs and events. It’s part of the Elastic Stack and works well with Elasticsearch. You can use Logstash to gather data, transform it, and send it to Elasticsearch, making it easier to analyze and visualize your logs with Kibana. It's a great way to get clear insights from your data!
 <!--Logs from the Windows and Ubuntu servers will be forwarded to the Elastic & Kibana server via designated agents.
 
 
