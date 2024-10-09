@@ -5,6 +5,7 @@
 ## Introduction
 
 This page outlines my participation in the MyDFIR 30-Day SOC Analyst Challenge, created by Steven at MyDFIR.com. This free initiative aims to equip aspiring SOC analysts with practical skills over a 30-day period.
+
 Check out the Youtube playlist here. [30-Day MyDFIR SOC Analyst Challenge!](https://www.youtube.com/watch?v=tXwMoBbrkYw&list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6&index=5)
 
 ## Day 1
