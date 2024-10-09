@@ -7,6 +7,7 @@
 
 This document outlines my participation in the MyDFIR 30-Day SOC Analyst Challenge, created by Steven at MyDFIR.com. This free initiative aims to equip aspiring SOC analysts with practical skills over a 30-day period.
 
+## Day 1
 On Day 1, I developed a logical diagram using draw.io to illustrate the network architecture for this challenge.
 
 The diagram features a VULTR VPC comprising six servers:
