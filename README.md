@@ -22,10 +22,9 @@ The diagram features a VULTR VPC comprising six servers:
 
 ## Day 2
 On Day 2, I learned about the ELK STACK
-
-E - Elasticsearch
-L - Logstash
-K - Kibana
+- E - Elasticsearch
+- L - Logstash
+- K - Kibana
 
 ### Elasticsearch 
 - I will use Elasticsearch to store logs, including Windows event logs, syslogs, and firewall logs, allowing for real-time analysis of large data volumes. It’s often used with Kibana, which visualizes the data for better insights.
