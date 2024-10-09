@@ -22,6 +22,7 @@ The diagram features a VULTR VPC comprising six servers:
 
 ## Day 2
 On Day 2, I learned about the ELK STACK
+
 E - Elasticsearch
 L - Logstash
 K - Kibana
