@@ -34,7 +34,19 @@ On Day 2, I learned about the ELK STACK:
 
 ### Kibana
 - Using Kibana with Elasticsearch will allow me to explore, analyze, and visualize data through interactive dashboards and real-time graphs.
-  
+
+
+## Day 3
+On Day 3, I registered for a VULTR account. In the VULTR dashboard, I set up a Virtual Private Cloud (VPC) and created a Ubuntu 22.04 Virtual Machine.
+![2024-10-09 16_38_14-Window](https://github.com/user-attachments/assets/e75c0d8c-5e7b-482e-9e7d-48cd7b2b574c)
+
+---
+
+After setting up the Ubuntu Virtual Machine, I accessed it via SSH and installed Elasticsearch.
+![2024-10-09 16_45_20-root@MyDFIR-ELK_ _](https://github.com/user-attachments/assets/e461d8ec-8a5d-4f4b-9266-e3e2fe100a49)
+
+
+
 <!--Logs from the Windows and Ubuntu servers will be forwarded to the Elastic & Kibana server via designated agents.
 
 
