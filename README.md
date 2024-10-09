@@ -16,7 +16,7 @@ The diagram features a VULTR VPC comprising six servers:
 - Elastic & Kibana Server
 - osTicket Server
 - C2 Server
-- 
+  
 Logs from the Windows and Ubuntu servers will be forwarded to the Elastic & Kibana server via designated agents.
 
 ---
