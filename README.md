@@ -4,21 +4,20 @@
 ![30day-MyDFIR-Diagram drawio (1)](https://github.com/user-attachments/assets/bb4a515f-daf4-415f-89c0-38308d4de41d)
 ## Introduction
 
-In this challenge, I will be doing the MyDFIR 30-Day SOC Analyst Challenge by Steven at MyDFIR.com
+This document outlines my participation in the MyDFIR 30-Day SOC Analyst Challenge, created by Steven at MyDFIR.com. This free initiative aims to equip aspiring SOC analysts with practical skills over a 30-day period.
 
-This is a free challenge that Steven created for aspiring SOC analysts. It was designed to help newbies obtain practical skills in 30 days.
+On Day 1, I developed a logical diagram using draw.io to illustrate the network architecture for this challenge.
 
-On Day 1 I created a logical diagram using draw.io
+The diagram features a VULTR VPC comprising six servers:
 
-The Logical Diagram will utilize a VULTR VPC and consist of 6 servers:
 - Windows Server (RDP Enabled)
 - Ubuntu Server (SSH Enabled)
-- Fleet Server 
+- Fleet Server
 - Elastic & Kibana Server
 - osTicket Server
 - C2 Server
-
-The logs from the windows and ubuntu server's will be forwarded to the elastic & kibana server via agents
+- 
+Logs from the Windows and Ubuntu servers will be forwarded to the Elastic & Kibana server via designated agents.
 
 ---
 
