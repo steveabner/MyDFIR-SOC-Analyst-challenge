@@ -45,6 +45,11 @@ On Day 3, I registered for a VULTR account. In the VULTR dashboard, I set up a V
 After setting up the Ubuntu Virtual Machine, I accessed it via SSH and installed Elasticsearch.
 ![2024-10-09 16_45_20-root@MyDFIR-ELK_ _](https://github.com/user-attachments/assets/e461d8ec-8a5d-4f4b-9266-e3e2fe100a49)
 
+With Elasticsearch installed, I need to edit the configuration file to ensure accessibility by adjusting the "Network Host" and "HTTP Port." The network host will be set to the IP address of the Ubuntu VM.
+![2024-10-09 16_50_26-root@MyDFIR-ELK_ _etc_elasticsearch](https://github.com/user-attachments/assets/20331012-924f-492c-8add-84f4a25bb295)
+![2024-10-09 16_55_02-root@MyDFIR-ELK_ _etc_elasticsearch](https://github.com/user-attachments/assets/40ed1fcf-31e4-4c0b-b1b7-a1cd48c8f30f)
+
+
 
 
 <!--Logs from the Windows and Ubuntu servers will be forwarded to the Elastic & Kibana server via designated agents.
