@@ -27,8 +27,11 @@ On Day 2, I learned about the ELK STACK
 - Kibana
 
 ### Elasticsearch 
-- Elasticsearch is an open-source, distributed search and analytics engine built on Apache Lucene. It excels in real-time search capabilities and is designed for horizontal scalability, allowing for efficient indexing and querying of large datasets.
-Commonly utilized for analyzing log and event data, Elasticsearch supports advanced querying and full-text search functionalities. Its RESTful API ensures easy integration with various data sources, making it accessible for developers. It is often used in conjunction with tools like Kibana for effective data visualization.
+- Elasticsearch is a free, open-source tool that helps you search and analyze data quickly. It works by organizing data in a way that makes it easy to find what you need.
+
+You can use it to look through large amounts of information, like logs or events, in real time. It’s built on another tool called Apache Lucene and can easily handle lots of data at once.
+
+Elasticsearch has a simple web-based API, which makes it easy for beginners to use. It often works with Kibana, a tool that helps you visualize your data.
 <!--Logs from the Windows and Ubuntu servers will be forwarded to the Elastic & Kibana server via designated agents.
 
 
