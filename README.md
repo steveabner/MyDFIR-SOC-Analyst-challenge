@@ -39,7 +39,7 @@ On Day 2, I learned about the ELK STACK:
 
 
 ## Day 3
-On Day 3, I registered for a VULTR account. In the VULTR dashboard, I set up a Virtual Private Cloud (VPC) and created a Ubuntu 22.04 Virtual Machine.
+On Day 3, I registered for a VULTR account. In the VULTR dashboard, I set up a Virtual Private Cloud (VPC) and created an Ubuntu 22.04 Virtual Machine.
 
 ![2024-10-09 16_38_14-Window](https://github.com/user-attachments/assets/e75c0d8c-5e7b-482e-9e7d-48cd7b2b574c)
 
